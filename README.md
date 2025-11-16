@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Himalsed
-- 👀 I’m interested in coding and programmer
+- 👀 I’m interested in coding and programming
 - 🌱 I’m currently learning Web developing
 - 💞️ I’m looking to collaborate on Project and group 
 - 📫 How to reach me you can mail me or other social media
