@@ -34,6 +34,13 @@ I am a Bachelor of Information Management (BIM) student based in Nepal. Currentl
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" height="28"/>
 </p>
 
+**Design & Tools**
+<p align="left">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" height="28"/>
+</p>
+
 ---
 
 ### 🚀 What I'm Learning & Exploring Right Now
