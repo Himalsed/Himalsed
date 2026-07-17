@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="banner.jpg" alt="Himal Sedhai Banner" width="100%" style="border-radius: 8px;">
-</p>
+
 
 # Himal Sedhai
 
